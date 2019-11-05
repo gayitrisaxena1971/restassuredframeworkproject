@@ -1,1 +1,5 @@
-hi
+package raf.testcases;
+
+class testcasedummyatgithub {
+	
+}
